@@ -102,7 +102,7 @@ Phase 3: Delivery & Reflection (Day 5)
 
 Goal: Satisfy Assignment 2 (Final Package) and Assignment 3 (Peer Review).
 
-1. The Deliverable Package
+- The Deliverable Package
 You need three specific artifacts:
 
  1. The MVP: A working prototype (e.g., a deployed web link or a runnable script).

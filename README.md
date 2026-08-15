@@ -45,17 +45,17 @@ Data: Mock JSON file (no complex DB setup needed for MVP).
 Integration: Slack/Discord bot or a simple web widget.
 Sample Board Tasks (Breakdown for 2 Ticket Types):
 
-|  ID  | Task Title | Owner | Priority | Definition of Done (DoD) | Est. Hours |  
-| T-01 | Setup Repo & CI Pipeline | Alice | High | Repo created, .gitignore set, "Hello World" commit passes CI. | 2 |
-| T-02 | Design Data Schema (Mock JSON) | Bob | High | JSON file created with orders and returns arrays. | 1.5 | 
-| T-03 | API: Get Order Status Endpoint | Alice | High | GET /api/order/:id returns JSON with status. Returns 404 if missing. | 3 | 
-| T-04 | API: Get Return Policy Logic | Bob | High | GET /api/return/policy returns text based on item category. | 2 | 
-| T-05 | Frontend: Chat Interface Skeleton | Charlie | Med | Input box and message history div visible. | 2.5 | 
-| T-06 | Frontend: Connect Order Status API | Alice | High | User types Order ID -> UI shows status from API. | 3 | 
-| T-07 | Frontend: Connect Return Logic | Bob | High | User selects "Return" -> UI shows correct policy text. | 3 | 
-| T-08 | Logic: Intent Detection (Keyword) | Dave | Med | Simple regex to detect "where is" vs "return" keywords. | 2 | 
-| T-09 | Testing: Unit Tests for API | Eve | High | 3 tests pass (Happy path, 404, Invalid ID). | 2 | 
-| T-10 | Docs: Go-Live Readiness Note | All | Low | 1-pager drafted with "Known Broken" section. | 2 |
+- |  ID  | Task Title | Owner | Priority | Definition of Done (DoD) | Est. Hours |  
+- | T-01 | Setup Repo & CI Pipeline | Alice | High | Repo created, .gitignore set, "Hello World" commit passes CI. | 2 |
+- | T-02 | Design Data Schema (Mock JSON) | Bob | High | JSON file created with orders and returns arrays. | 1.5 | 
+- | T-03 | API: Get Order Status Endpoint | Alice | High | GET /api/order/:id returns JSON with status. Returns 404 if missing. | 3 | 
+- | T-04 | API: Get Return Policy Logic | Bob | High | GET /api/return/policy returns text based on item category. | 2 | 
+- | T-05 | Frontend: Chat Interface Skeleton | Charlie | Med | Input box and message history div visible. | 2.5 | 
+- | T-06 | Frontend: Connect Order Status API | Alice | High | User types Order ID -> UI shows status from API. | 3 | 
+- | T-07 | Frontend: Connect Return Logic | Bob | High | User selects "Return" -> UI shows correct policy text. | 3 | 
+- | T-08 | Logic: Intent Detection (Keyword) | Dave | Med | Simple regex to detect "where is" vs "return" keywords. | 2 | 
+- | T-09 | Testing: Unit Tests for API | Eve | High | 3 tests pass (Happy path, 404, Invalid ID). | 2 | 
+- | T-10 | Docs: Go-Live Readiness Note | All | Low | 1-pager drafted with "Known Broken" section. | 2 |
 
 Action Item: Create this board in GitHub Projects, Trello, or Jira immediately. Assign owners. This is Assignment 1.
 

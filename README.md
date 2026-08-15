@@ -1,16 +1,16 @@
-Northstar Support Bot - Support Deflection MVP
+# Northstar Support Bot - Support Deflection MVP
 
 A 1-week industry working simulation building a support deflection MVP for Northstar Retail Co.
-Features
 
-✅ Order Status - Track orders with order numbers
-✅ Returns & Refunds - Return policy and refund status
-✅ Stock Availability - Product availability and restock dates
-✅ Analytics Dashboard - Real-time deflection tracking
-✅ Go-Live Readiness - Comprehensive deployment documentation
-✅ Chat History - Export and save conversations
-✅ Quick Replies - One-click common queries
+## Features
 
+- ✅ **Order Status** - Track orders with order numbers
+- ✅ **Returns & Refunds** - Return policy and refund status
+- ✅ **Stock Availability** - Product availability and restock dates
+- ✅ **Analytics Dashboard** - Real-time deflection tracking
+- ✅ **Go-Live Readiness** - Comprehensive deployment documentation
+- ✅ **Chat History** - Export and save conversations
+- ✅ **Quick Replies** - One-click common queries
 
 Phase 1: The Strategy (Day 1 Setup)
 

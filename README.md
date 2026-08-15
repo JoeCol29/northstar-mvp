@@ -107,8 +107,10 @@ You need three specific artifacts:
 
  1. The MVP: A working prototype (e.g., a deployed web link or a runnable script).
 Must demonstrate: "Where is my order?" (Returns an answer) AND "How do I return?" (Returns a policy).
+ 
  2.The Audit Log: Export the commit history and board activity.
 Tip: Run git log --oneline --all --graph and take a screenshot. Export the Trello/GitHub board activity log.
+ 
  3.The Go-Live Note:
  - What Works: "Order status lookup returns accurate data from mock DB."
  - Known Broken: "Stock availability is not implemented (out of scope for MVP)."

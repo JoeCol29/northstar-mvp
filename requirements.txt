@@ -1,0 +1,12 @@
+# Team Requirements
+flask==3.0.0
+flask-cors==4.0.0
+pytest==7.4.3
+
+
+# Web Framework
+Flask==3.0.0
+# Handle Cross-Origin Requests (Frontend <-> Backend)
+Flask-CORS==4.0.0
+# Unit Testing Framework
+pytest==7.4.3

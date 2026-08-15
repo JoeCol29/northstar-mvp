@@ -90,13 +90,14 @@ Commit 2 (Bruce): test: add unit tests for order logic
 
 Checklist for Day 4 Checkpoint:
 
- Does every team member have at least 3 commits?
+ - Does every team member have at least 3 commits?
 
- Are all commit messages descriptive (no "fix" or "update")?
+ - Are all commit messages descriptive (no "fix" or "update")?
 
- Is the board 100% up to date with actual progress?
+ - Is the board 100% up to date with actual progress?
 
-Are there any tasks sitting in "In Progress" for >24 hours? (If yes, escalate per Charter).
+ - Are there any tasks sitting in "In Progress" for >24 hours? (If yes, escalate per Charter).
+
 Phase 3: Delivery & Reflection (Day 5)
 
 Goal: Satisfy Assignment 2 (Final Package) and Assignment 3 (Peer Review).
@@ -109,6 +110,6 @@ Must demonstrate: "Where is my order?" (Returns an answer) AND "How do I return?
  2.The Audit Log: Export the commit history and board activity.
 Tip: Run git log --oneline --all --graph and take a screenshot. Export the Trello/GitHub board activity log.
  3.The Go-Live Note:
-What Works: "Order status lookup returns accurate data from mock DB."
-Known Broken: "Stock availability is not implemented (out of scope for MVP)."
-Handover Instructions: "To run: npm install, npm start. API docs in /docs."
+ - What Works: "Order status lookup returns accurate data from mock DB."
+ - Known Broken: "Stock availability is not implemented (out of scope for MVP)."
+ - Handover Instructions: "To run: npm install, npm start. API docs in /docs."
